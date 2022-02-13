@@ -1,0 +1,12 @@
+# Attendance-Management-App
+- This App is made to track the attendance of the students in a convenient manner.
+- In this app there is a feature to add class , modify class and also to delete class.
+- Inside the class screen the user can add students , modify the student's details and also can delete students.
+- And then after creating the class the user can easily take the attendance of the students.
+- The list item will turn red for absent and turn green for present.
+- The list item should be clicked twice to mark a student as absent.
+- After taking the attendance of the class the user can safely save the attendance of the class by simply clicking the save button on the action bar.
+- And also the user can view the attendance of the class of any day or date.
+- Then at any point of time during the month the user can generate the attendance sheet of the students.
+- By generating the attendance sheet it becomes easy to check the attendance of every student at a single place of the whole month.
+- Now I will add a feature soon to the app to print the attendance sheet for sending or saving to drive in pdf format. 
